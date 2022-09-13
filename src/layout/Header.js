@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <Navbar className="nav">
       <NavbarBrand tag={Link} to="/" className="text-white navbrand">
-        LCO Contact App
+        Contact App
       </NavbarBrand>
       <NavbarText className="text-white float-right navtxt">
         A simple Contact app
